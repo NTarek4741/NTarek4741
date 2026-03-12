@@ -5,6 +5,7 @@
 **Software Engineer · AI Systems · Backend Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tan25/)
+[![Website](https://img.shields.io/badge/Website-b3ff00?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ntarek4741.github.io/myWebsite/)
 
 </div>
 
@@ -12,7 +13,7 @@
 
 ## About Me
 
-I'm a software engineer focused on **AI systems and backend development**.
+I'm a software engineer focused on **AI systems and backend development** — building things that are production-ready, not just proof-of-concept.
 
 - 🎓 BA in Computer Science — **New York University** (2025)
 - 📚 MSCS — **Arizona State University** (2026–2028, in progress)
