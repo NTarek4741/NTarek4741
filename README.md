@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a software engineer focused on **AI systems and backend development** — building things that are production-ready, not just proof-of-concept.
+I'm a software engineer focused on **AI systems and backend development**.
 
 - 🎓 BA in Computer Science — **New York University** (2025)
 - 📚 MSCS — **Arizona State University** (2026–2028, in progress)
