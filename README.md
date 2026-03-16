@@ -15,7 +15,7 @@
 I'm a software engineer focused on **AI systems and backend development** — building things that are production-ready, not just proof-of-concept.
 
 - 🎓 Bachelor's in Computer Science — **New York University** (2025)
-- 📚 Master's in Computer Science — **Arizona State University** (2026–2028), Machine Learning & Bioinformatics
+- 📚 Master's in Computer Science — **Arizona State University** (2026–2028), Machine Learning & Systems Programming 
 - 🔭 Currently building **[mlx-nim](https://github.com/NTarek4741/mlx-nim)**, a local LLM/VLM inference server for Apple Silicon
 - 🤖 Completed an **Extern AI externship in collaboration with Wayfair**, building AI agents and a live competitor intelligence dashboard using n8n
 - 💡 Interested in inference optimization, cross-language API design, and applied ML
